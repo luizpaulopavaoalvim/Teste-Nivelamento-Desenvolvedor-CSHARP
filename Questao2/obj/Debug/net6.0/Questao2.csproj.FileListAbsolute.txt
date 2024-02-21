@@ -1,0 +1,35 @@
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.sourcelink.json
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.csproj.CopyComplete
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\refint\Questao2.dll
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+C:\Users\Luiz Paulo Pavão\Desktop\TESTE AILOS\Questao2\obj\Debug\net6.0\ref\Questao2.dll
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\Questao2.csproj.Up2Date
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\refint\Questao2.dll
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+C:\Users\antonio\Desktop\Luiz Paulo\Questao2\Questao2\obj\Debug\net6.0\ref\Questao2.dll
